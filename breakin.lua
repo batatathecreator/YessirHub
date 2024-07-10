@@ -28,6 +28,6 @@ local Window = Rayfield:CreateWindow({
  local hubsnikita = hubs:CreateButton({
     Name = "Nikita365's Hub",
     Callback = function()
-        loadstring(game:HttpGet("https://raw.githubusercontent.com/Nikita365/Break-In-Story-/main/Break%20In%20Story%20Hub"))()
+        loadstring(game:HttpGet("https://pastebin.com/raw/JCWALTth"))()
     end,
  })
