@@ -26,7 +26,7 @@ local Window = Rayfield:CreateWindow({
  })
  local hubs = Window:CreateTab("Hubs", 4483362458)
  local hubsnikita = hubs:CreateButton({
-    Name = "Nikita365's Hub",
+    Name = "Good Hub",
     Callback = function()
         loadstring(game:HttpGet("https://pastebin.com/raw/JCWALTth"))()
     end,
